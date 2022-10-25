@@ -1,1 +1,1 @@
-# OmnaxEngine
+# Omnax Engine é um motor de jogo 3D moderno de alta qualidade escrito em Python. De gráficos impressionantes a scripts poderosos - o Omnax3D pode dar tudo para seus # jogos. Projetado para fluxo de trabalho rápido com muitos recursos prontos para uso esperando por você agora. Para saber mais consulte.
